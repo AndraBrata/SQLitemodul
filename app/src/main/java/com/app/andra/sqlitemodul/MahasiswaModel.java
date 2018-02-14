@@ -1,10 +1,7 @@
 package com.app.andra.sqlitemodul;
 
-import android.os.Parcel;
-import android.os.Parcelable;
-
 /**
- * Created by LENOVO_PC on 2/13/2018.
+ * Created by Komang Candra Brata on 2/13/2018.
  */
 
 public class MahasiswaModel {

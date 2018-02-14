@@ -1,7 +1,8 @@
 package com.app.andra.sqlitemodul;
 
+
 /**
- * Created by LENOVO_PC on 10/2/2017.
+ * Created by Komang Candra Brata on 10/2/2017.
  */
 
 import android.content.Context;

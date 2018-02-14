@@ -3,7 +3,7 @@ package com.app.andra.sqlitemodul.dbHelper;
 import android.provider.BaseColumns;
 
 /**
- * Created by LENOVO_PC on 2/13/2018.
+ * Created by Komang Candra Brata on 2/13/2018.
  */
 
 public class DatabaseContract {

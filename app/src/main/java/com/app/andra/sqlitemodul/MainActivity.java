@@ -12,6 +12,11 @@ import com.app.andra.sqlitemodul.dbHelper.MahasiswaHelper;
 
 import java.util.ArrayList;
 
+/**
+ * Created by Komang Candra Brata on 2/13/2018.
+ */
+
+
 public class MainActivity extends AppCompatActivity {
 
     private RecyclerView recyclerView;

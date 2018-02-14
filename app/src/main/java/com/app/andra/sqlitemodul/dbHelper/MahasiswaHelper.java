@@ -17,7 +17,7 @@ import static com.app.andra.sqlitemodul.dbHelper.DatabaseContract.MahasiswaColum
 import static com.app.andra.sqlitemodul.dbHelper.DatabaseContract.TABLE_MAHASISWA;
 
 /**
- * Created by LENOVO_PC on 2/13/2018.
+ * Created by Komang Candra Brata on 2/13/2018.
  */
 
 public class MahasiswaHelper {
