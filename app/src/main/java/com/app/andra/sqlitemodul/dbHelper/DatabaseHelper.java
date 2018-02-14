@@ -11,7 +11,7 @@ import static com.app.andra.sqlitemodul.dbHelper.DatabaseContract.TABLE_MAHASISW
 
 
 /**
- * Created by dicoding on 12/1/2016.
+ * Created by Komang Candra Brata
  */
 
 public class DatabaseHelper extends SQLiteOpenHelper {
